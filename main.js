@@ -1,6 +1,8 @@
 console.log( "My Project C77");
-var name="Ahmad Tabbal";
+var names="Ahmad Tabbal";
+console.log(names)
 var math=Math.max(1,15);
+
 console.log(math)
 var mather=Math.min(10,5);
 console.log(mather)
